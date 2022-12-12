@@ -5,7 +5,6 @@ CREATE TABLE assignments (
   day INTEGER,
   chapter INTEGER,
   duration INTEGER
-
 );
 
 CREATE TABLE assignment_submissions (
