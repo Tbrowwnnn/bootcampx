@@ -12,3 +12,4 @@ INSERT INTO cohorts (id, name, start_date, end_date) VALUES (11, 'NOV19', '2018-
 INSERT INTO cohorts (id, name, start_date, end_date) VALUES (12, 'DEC17', '2018-12-17T08:00:00.000Z', '2019-02-22T08:00:00.000Z');
 
 ALTER SEQUENCE cohorts_id_seq RESTART WITH 13;
+
